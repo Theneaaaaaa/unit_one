@@ -16,7 +16,7 @@ for x in range(20):
     makeAHexagon()
     turtle.left(18)
 
-turtle.pencolor('#1F618D')
+turtle.pencolor('#00CCFF')
 
 turtle.pensize(1)
 
